@@ -75,6 +75,19 @@ All changes are automatically saved when the task list updates.
 
 ---
 
-<!--- ## 📸 Screenshots
+## 📱 App Screenshots
 
-_Add screenshots here_ -->
+### Launch Screen
+![Launch Screen](Screenshots/LunchScreen.png)
+
+### Home Screen
+![Home Screen](Screenshots/HomeScreen.png)
+
+### Add Todo
+![Add Screen](Screenshots/AddScren.png)
+
+### Edit Todo
+![Edit Screen](Screenshots/EditScreen.png)
+
+### Delete Todo
+![Delete Screen](Screenshots/Delet.png)
